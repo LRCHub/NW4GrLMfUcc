@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぷらぷりずむ",
+  "base_artist": "前髪ぱっつん少年",
+  "createdAt": "2026-02-07T12:52:53.141312Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぷらぷりずむ",
+      "artist": "前髪ぱっつん少年",
+      "has_synced": false,
+      "path": "select/pl_01_ぷらぷりずむ_前髪ぱっつん少年.txt"
+    }
+  ]
+}
